@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Countries</string>
+    <string name="error_list_loading_text">An error occured</string>
+</resources>
